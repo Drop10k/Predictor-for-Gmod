@@ -1,0 +1,21 @@
+Step 1: Download AutoHotkey
+Go to the AutoHotkey website in your web browser.
+Click on the "Download" button to download the latest version of AutoHotkey for your operating system.
+Follow the installation instructions to install AutoHotkey on your computer.
+Step 2: Copy the Script
+Open a text editor such as Notepad.
+Copy the provided AutoHotkey script from above and paste it into the text editor.
+Step 3: Save the Script
+Click on "File" in the menu bar.
+Select "Save As" and choose a location on your computer to save the script.
+Enter a name for the script, ensuring it ends with the ".ahk" file extension (e.g., "predictors_menu.ahk").
+Click "Save" to save the script.
+Step 4: Run the Script
+Navigate to the location where you saved the script.
+Double-click on the script file to run it. Alternatively, you can right-click on the file and select "Run Script" from the context menu.
+Step 5: Use the GUI
+After running the script, a GUI window titled "Enter Password" will appear.
+Enter the password "password" (without quotes) into the "Generate Account" field or click on the "Generate" button to create a random password.
+Click on the "Confirm" button to proceed.
+Once the password is confirmed, the "Predictors Menu" GUI will appear.
+From the menu, you can choose different predictors such as Roulette Predictor, Blackjack Predictor, Coin Flip Predictor,
